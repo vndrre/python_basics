@@ -1,2 +1,2 @@
-th = "aeiouõäöü"
+th = ("aeiouõäöü")
 print(len(th))
