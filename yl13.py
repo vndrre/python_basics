@@ -1,12 +1,8 @@
-loom = input("Lemmikloom: ")
+pet = input("Sisesta oma lemmikloom: ")
 
-if loom:
-    first_letter = loom[0]
-    print("Esimene täht: ", first_letter)
+print(pet[0])
 
-list = ["jänes", "kass", "koer"]
-print (last_letter)
+pets = ["Koer", "Kass", "Karu"] 
 
-if list:
-    last_letter = list[-1]
-    print("Viimane täht: ", last_letter)
+pets.append(pet)
+print(pets)

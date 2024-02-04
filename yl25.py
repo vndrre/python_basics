@@ -10,7 +10,6 @@ x = thisdict.get("elukoht")
 print(x)
 
 
-
 for x in thisdict:
     print(thisdict[x])
 
